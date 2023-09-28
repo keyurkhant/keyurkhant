@@ -109,7 +109,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-----------------------------------------------------------------------
-Credit: [keyurkhant](https://github.com/keyurkhant)
 
+Credit: [keyurkhant](https://github.com/keyurkhant)
 Last Edited on: 28/09/2023
