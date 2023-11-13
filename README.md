@@ -28,19 +28,16 @@
 
 - 💬 Ask me about **Scalable Architecture, AWS, React, Nodejs, Microservice, Automation, Micro Frontend**
 
-- 📫 Feel free to reach me out **keyurpkhant@gmail.com**
 <!--Intro end-->
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div>
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-</div>
-
-<!--icons and links-->
-<p>
-<a href="https://www.linkedin.com/in/keyurkhant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+<h3>Connect with me:</h3>
+  
+<a aligh="left" href="mailto:keyurpkhant@gmail.com" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" />
+</a> 
+<a aligh="left" href="https://www.linkedin.com/in/keyurkhant/" target="_blank" rel="noreferrer noopener">
+    <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" />
+</a>
 
 
 <!--profile visit count-->
@@ -49,6 +46,3 @@
 [![](https://visitcount.itsvg.in/api?id=keyurkhant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-Credit: [keyurkhant](https://github.com/keyurkhant)
-Last Edited on: 28/09/2023
