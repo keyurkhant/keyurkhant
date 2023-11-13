@@ -12,10 +12,7 @@
 
 
 <!--h2 without bottom border-->
-<div>
-    <summary><h3 style="display: inline-block">Confusion is part of Programming</h3></summary>
-</div>
-
+<h3 style="display: inline-block">Confusion is part of Programming</h3></summary>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Node.js, React, Python, Spring Boot, AWS**
