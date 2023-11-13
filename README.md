@@ -39,7 +39,7 @@
 
 
 <!--profile visit count-->
-<div align="center">
+<div>
   
 [![](https://visitcount.itsvg.in/api?id=keyurkhant&icon=3&color=6)](https://visitcount.itsvg.in)
   
