@@ -24,23 +24,21 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** & **Azure**
+- ☁️ Want to discuss Cloud Computing, system architecture and Machine Learning? Let's do it.
 
-- 💬 Ask me about **AWS, react, nodejs, mongoDB, sql, serverless, microservice, automation**
+- 💬 Ask me about **Scalable Architecture, AWS, React, Nodejs, Microservice, Automation, Micro Frontend**
 
 - 📫 Feel free to reach me out **keyurpkhant@gmail.com**
 <!--Intro end-->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
+<div>
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
 </div>
 
 <!--icons and links-->
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/keyurkhant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
