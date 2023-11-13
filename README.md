@@ -1,8 +1,6 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Keyur</h1>
-  </ul>
+    <h1 style="display: inline-block">Hello 👋, I'm Keyur Khant</h1>
 </div>
 
 
@@ -37,7 +35,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
