@@ -12,7 +12,7 @@
 
 
 <!--h2 without bottom border-->
-<h3 style="display: inline-block">Confusion is part of Programming</h3></summary>
+<h3>Confusion is part of Programming</h3>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Node.js, React, Python, Spring Boot, AWS**
@@ -35,6 +35,8 @@
 </a>
 
 
+<br/>
+<br/>
 <!--profile visit count-->
 <div>
   
