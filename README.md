@@ -32,7 +32,7 @@
 💬 **Expertise**: Ask me about Scalable Architecture, AWS, React, Node.js, Microservices, and Automation.
 
 ## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyurkhant&show_icons=true)
 
 ## 🏗️ System Architecture
 Here's a glimpse into my approach to scalable system architecture:
