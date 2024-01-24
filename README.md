@@ -21,6 +21,28 @@
 
 <!--Intro end-->
 
+# Welcome to My GitHub!
+
+🔭 **Current Work**: I'm diving deep into Node.js, React, Python, and Spring Boot, with a keen focus on building scalable applications on AWS.
+
+🌱 **Learning Journey**: Exploring the realms of Hyper Beast Stack to enhance application scalability.
+
+☁️ **Let's Talk**: Eager to discuss Cloud Computing, System Architecture, and Machine Learning? Reach out!
+
+💬 **Expertise**: Ask me about Scalable Architecture, AWS, React, Node.js, Microservices, and Automation.
+
+## 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 🏗️ System Architecture
+Here's a glimpse into my approach to scalable system architecture:
+```mermaid
+graph LR;
+    A[Client] --> B{Load Balancer};
+    B --> C[Service 1];
+    B --> D[Service 2];
+    B --> E[Service N];
+
 <h3>Connect with me:</h3>
   
 <a aligh="left" href="mailto:keyurpkhant@gmail.com" target="_blank" rel="noreferrer noopener">
