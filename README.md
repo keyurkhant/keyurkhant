@@ -11,37 +11,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Node.js, React, Python, Spring Boot, AWS**
+- 🔭 **Current Work**: I'm diving deep into Node.js, React, Python, and Spring Boot, with a keen focus on building scalable applications.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 **Learning Journey**: Exploring the Apache Kafka, Redis, Microfrontend and highly scalable system development.
 
-- ☁️ Want to discuss Cloud Computing, system architecture and Machine Learning? Let's do it.
-
-- 💬 Ask me about **Scalable Architecture, AWS, React, Nodejs, Microservice, Automation, Micro Frontend**
+- 💬 **Let's Talk**: Eager to discuss Cloud Computing, System Architecture, and Machine Learning? Reach out!
 
 <!--Intro end-->
-
-# Welcome to My GitHub!
-
-🔭 **Current Work**: I'm diving deep into Node.js, React, Python, and Spring Boot, with a keen focus on building scalable applications on AWS.
-
-🌱 **Learning Journey**: Exploring the realms of Hyper Beast Stack to enhance application scalability.
-
-☁️ **Let's Talk**: Eager to discuss Cloud Computing, System Architecture, and Machine Learning? Reach out!
-
-💬 **Expertise**: Ask me about Scalable Architecture, AWS, React, Node.js, Microservices, and Automation.
-
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyurkhant&show_icons=true)
-
-## 🏗️ System Architecture
-Here's a glimpse into my approach to scalable system architecture:
-```mermaid
-graph LR;
-    A[Client] --> B{Load Balancer};
-    B --> C[Service 1];
-    B --> D[Service 2];
-    B --> E[Service N];
 
 <h3>Connect with me:</h3>
   
