@@ -13,17 +13,21 @@
 -->
 
 <!--Intro start-->
-- 🔭 **Current Work**: I'm diving deep into Node.js, React, Python, and Spring Boot, with a keen focus on building scalable applications.
+I'm a Software and ML Engineer with 5+ years of experience turning data and analytics into real-world impact. Fueled by a lifelong fascination with technology and a relentless drive to build better, I've grown from writing code to shaping how software, data, and analytics solve hard problems — from learning platforms and content management to large-scale fraud analytics.
 
-- 🌱 **Learning Journey**: Exploring the Apache Kafka, Redis, Microfrontend and highly scalable system development.
+ 
 
-- 💬 **Let's Talk**: Eager to discuss Cloud Computing, System Architecture, and Machine Learning? Reach out!
+I'm currently completing a Master of Science in Applied Computer Science at Dalhousie University, focused on advanced software development and AI. Along the way I've built and led work across the stack — Node, React, and TypeScript applications, data pipelines, and ML-driven analytics — reaching for whatever tools fit the problem best.
+
+ 
+
+I stay endlessly curious about machine learning, data, and the craft of building things that scale and last. Always up to trade ideas, learn from sharp people, and explore what's next. Let's connect and build something great.
 
 <!--Intro end-->
 
 <h3>Connect with me:</h3>
   
-<a aligh="left" href="mailto:keyurpkhant@gmail.com" target="_blank" rel="noreferrer noopener">
+<a aligh="left" href="mailto:keyurkhant1998@gmail.com" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" />
 </a> 
 <a aligh="left" href="https://www.linkedin.com/in/keyurkhant/" target="_blank" rel="noreferrer noopener">
